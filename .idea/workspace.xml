@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4516890f-2bae-43b1-aa7f-07d9ea2ad797" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise1/Advertisement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise1/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise1/EmailAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise1/FacebookAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise1/PrintAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise2/BRD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise2/BT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise2/BankServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise2/BankingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise2/ING.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise2/TotalAmount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise3/AnimalBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise3/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise3/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise3/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/tema8/exercise4/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2S1X9npSgkjiTahO6xCEBgcUleC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4516890f-2bae-43b1-aa7f-07d9ea2ad797" name="Changes" comment="" />
+      <created>1688314915360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688314915360</updated>
+    </task>
+    <servers />
+  </component>
+</project>
